@@ -12,6 +12,10 @@ LNK files are usually seen by users as shortcuts, and used in places like the De
 
 Windows shortcut files (.LNK) include many metadata fields, including an icon location field (also known as the IconEnvironmentDataBlock) designed to specify the path to an icon file that is to be displayed for the LNK file within a host directory.
 
+## File Header Signature (Magic Bytes)
+
+4C 00 00 00 01 14 02 00
+
 ## MimeType
 
 Application/x-ms-shortcut
