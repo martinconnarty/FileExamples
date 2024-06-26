@@ -18,7 +18,7 @@ Application/x-ms-shortcut
 
 ## Example
 
-/example.lnk
+[/example.lnk](Example LNK)
 
 ## References
 
