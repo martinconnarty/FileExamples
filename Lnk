@@ -16,6 +16,10 @@ Windows shortcut files (.LNK) include many metadata fields, including an icon lo
 
 Application/x-ms-shortcut
 
+## Example
+
+/example.lnk
+
 ## References
 
 https://attack.mitre.org/techniques/T1027/012/
