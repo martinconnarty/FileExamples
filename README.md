@@ -11,3 +11,6 @@ This Repo of file types that I intend to add to should address that, giving me u
 4. Security Concerns and examples
 
 For the example files, I will try and create these myself, typically they will contain a minimal amount of data, such as "test".
+
+
+_For file requests, please open an Issue and I'll see what I can do!_
