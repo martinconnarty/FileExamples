@@ -24,7 +24,7 @@ IMG Files, like ISO files are sometimes emailed/linked to in Phishing emails as 
 
 ## Example
 
-[Example](/example.img)
+[Example](/ExampleFiles/example.img)
 
 ## References
 

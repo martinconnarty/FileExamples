@@ -24,7 +24,7 @@ application/x-iso9660-image
 
 ## Example
 
-[Example](/example.iso)
+[Example](/ExampleFiles//example.iso)
 
 ## References
 

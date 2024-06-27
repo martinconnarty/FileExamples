@@ -33,9 +33,9 @@ The Password Protecting of a ZIP can be used as a way to prevent security tools 
 application/zip
 ## Example
 
-[Example](/example.zip)
+[Example](/ExampleFiles//example.zip)
 
-[Example Password Protected - password=testtest](/example_password_testtest.zip)
+[Example Password Protected - password=testtest](/ExampleFiles//example_password_testtest.zip)
 
 ## References
 
