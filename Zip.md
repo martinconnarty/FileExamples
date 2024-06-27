@@ -35,7 +35,7 @@ application/zip
 
 [Example](/example.zip)
 
-[Example](/example_password_testtest.zip)
+[Example Password Protected - password=testtest](/example_password_testtest.zip)
 
 ## References
 
