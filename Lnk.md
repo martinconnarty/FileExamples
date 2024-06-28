@@ -30,7 +30,7 @@ Application/x-ms-shortcut
 
 ## Example
 
-[Example](/ExampleFiles//example.lnk)
+[Example](../../../FileExamples/raw/main/ExampleFiles//example.lnk)
 
 ## References
 
