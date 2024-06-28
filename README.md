@@ -10,9 +10,12 @@ This Repo of file types that I intend to add to should address that, giving me u
 3. Header Signatures (Magic Bytes) where applicable
 4. Security Concerns and examples
 
+## What are the example files?
+
 For the example files, I will try and create these myself, typically they will contain a minimal amount of data, such as "test".
 
-
+## Other formats
+ 
 _For file requests, please open an Issue and I'll see what I can do!_
 
 
