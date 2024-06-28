@@ -33,7 +33,7 @@ Like some of the other archive formats, it has been used by threat actors to arc
 
 ## Example
 
-[Example](/ExampleFiles/example.7z)
+[Example](/ExampleFiles/example.rar)
 
 ## References
 
