@@ -30,4 +30,5 @@ application/x-iso9660-image
 
 https://thedfirreport.com/2023/04/03/malicious-iso-file-leads-to-domain-wide-ransomware/
 
+http://fileformats.archiveteam.org/wiki/ISO_image
 

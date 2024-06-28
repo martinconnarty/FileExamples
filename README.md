@@ -14,3 +14,8 @@ For the example files, I will try and create these myself, typically they will c
 
 
 _For file requests, please open an Issue and I'll see what I can do!_
+
+
+A useful resource I've found with tonnes of other file types and more detail that might cover what's missing:
+
+http://fileformats.archiveteam.org/wiki/Main_Page

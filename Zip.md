@@ -43,3 +43,4 @@ https://en.wikipedia.org/wiki/ZIP_(file_format)
 
 https://www.crowdstrike.com/blog/how-to-prevent-zip-file-exploitation/
 
+https://attack.mitre.org/techniques/T1560/
