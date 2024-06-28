@@ -33,7 +33,8 @@ Like some of the other archive formats, it has been used by threat actors to arc
 
 ## Example
 
-[Example](/ExampleFiles/example.rar)
+[Example](../raw/main/ExampleFiles/example.rar)
+
 
 ## References
 
