@@ -29,7 +29,7 @@ Due to it's ability to run scripts, it has long being part of the toolkit for th
 
 ## References
 
-[https://en.wikipedia.org/wiki/IMG_(file_format)](https://en.wikipedia.org/wiki/VBScript)
+https://en.wikipedia.org/wiki/VBScript
 
 https://www.bleepingcomputer.com/news/security/microsoft-to-kill-off-vbscript-in-windows-to-block-malware-delivery/
 
