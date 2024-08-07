@@ -1,10 +1,10 @@
 # Title
 
-7z files
+Lnk - LnkStomped files
 
 # Extension
 
-7z
+Lnk
 
 ## Description
 
@@ -20,22 +20,22 @@ As described above LNK Stomping is a regularly used method that can be used to b
 
 ## File Header Signature (Magic Bytes)
 
-- 37 7A BC AF 27 1C	 (7z)
- 
+- 4C 00 00 00 01 14 02 00
+
 
 ## MimeType
 
-application/x-7z-compressed
+Application/x-ms-shortcut
 
 ## Example
 
-[Example](../../../FileExamples/raw/main/ExampleFiles/example.7z)
+[Example](../../../FileExamples/raw/main/ExampleFiles/lnk_stomp.lnk)
 
 ## References
 
-https://en.wikipedia.org/wiki/7z
+[https://en.wikipedia.org/wiki/7z](https://www.elastic.co/security-labs/dismantling-smart-app-control)
 
-http://fileformats.archiveteam.org/wiki/7z
+https://github.com/martinconnarty/FileExamples/blob/main/Lnk.md
 
 https://attack.mitre.org/techniques/T1560/
 
