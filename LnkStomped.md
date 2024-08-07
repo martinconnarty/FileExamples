@@ -34,7 +34,14 @@ Application/x-ms-shortcut
 
 ## Example
 
-[Example](../../../FileExamples/raw/main/ExampleFiles/poc-lnkstomp.lnk)
+[POC Lnkstomp](../../../FileExamples/raw/main/ExampleFiles/poc-lnkstomp.lnk)
+
+
+### Note: When testing my browser downloaded it as a 'DOWNLOAD' when clicked on, use curl to do this instead:
+
+```
+curl https://github.com/martinconnarty/FileExamples/raw/main/ExampleFiles/poc-lnkstomp.lnk -o poc-lnkstomp.lnk
+```
 
 ## References
 
