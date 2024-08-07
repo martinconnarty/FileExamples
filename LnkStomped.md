@@ -34,7 +34,7 @@ Application/x-ms-shortcut
 
 ## Example
 
-[Example](../../../FileExamples/raw/main/ExampleFiles/lnk_stomp.lnk)
+[Example](../../../FileExamples/raw/main/ExampleFiles/poc-lnkstomp.lnk)
 
 ## References
 
