@@ -14,6 +14,11 @@ Lnk
 
 > During our research, we stumbled upon another MotW bypass that is trivial to exploit. It involves crafting LNK files that have non-standard target paths or internal structures. When clicked, these LNK files are modified by explorer.exe with the canonical formatting. This modification leads to removal of the MotW label before security checks are performed. The function that overwrites the LNK files is _SaveAsLink() as shown in the following call stack:"
 
+I have generated a LNK File as per [Elastic's Tool](https://github.com/joe-desimone/rep-research/blob/8e22c587e727ce2e3ea1ccab973941b7dd2244fc/lnk_stomping/lnk_stomping.py) - lnkinfo shows:
+
+![image](https://github.com/user-attachments/assets/8bb5267f-b318-4b3a-85eb-1282f6d6316f)
+
+
 **Security Concerns**
 
 As described above LNK Stomping is a regularly used method that can be used to bypass MoTW Smart Screen restrictions on LNKFiles. 
@@ -40,4 +45,4 @@ https://github.com/martinconnarty/FileExamples/blob/main/Lnk.md
 https://attack.mitre.org/techniques/T1560/
 
 
-![image](https://github.com/user-attachments/assets/8bb5267f-b318-4b3a-85eb-1282f6d6316f)
+
